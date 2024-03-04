@@ -1,3 +1,4 @@
+package org.example.modelos;
 
 import java.util.Arrays;
 import java.util.Scanner;
